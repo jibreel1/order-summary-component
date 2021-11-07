@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+    background-image: url(images/pattern-background-mobile.svg);
+    background-repeat: no-repeat;
+    background-color: hsl(225, 100%, 94%);
+}
+
+.wrapper {
+    margin: 72px 25px 72px 25px;
+    background-color: white;
+    border-radius: 20px;
+}
+.music {
+    width: 100%;
+    border-radius: 20px 20px 0 0;
+}
+
+.order  h2{
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: 900;
+    text-align: center;
+    color: hsl(223, 47%, 23%);
+    padding: 20px;
+}
+
+.order p {
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    text-align: center;
+    color: hsla(223, 47%, 23%, 0.8);
+    padding: 0 20px 20px 20px;
+    line-height: 25px;
+}
+
+.wrap {
+    background-color: hsl(225, 100%, 98%);
+    margin: 0 25px 0 25px;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.wrap ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.wrap ul li h4 {
+    
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: 900;
+    font-size: 13px;
+    color: hsl(223, 47%, 23%);
+}
+
+.wrap ul li p {
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: 700;
+    font-size: 13px;
+    color: hsla(223, 47%, 23%, 0.7);
+    line-height: 20px;
+}
+
+.wrap ul li h5 {
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: 700;
+    font-size: 13px;
+    color: hsl(245, 75%, 52%);
+    text-decoration: underline;
+}
+
+.proceed h4{
+    background-color: hsl(245, 75%, 52%);
+    margin: 20px;
+    padding: 15px 20px;
+    border-radius: 10px;
+    text-align: center;
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 1px;
+    color: hsla(0, 0%, 100%, 1);
+    box-shadow: 1px 13px 8px rgb(206, 205, 205);
+}
+
+.cancel {
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: 900;
+    font-size: 14px;
+    text-align: center;
+    color: hsla(223, 47%, 23%, 0.7);
+    padding: 0 20px 20px 20px;
+}
+
+@media screen and (min-width: 1000px) {
+    body {
+        background-image: url(images/pattern-background-desktop.svg);
+    }
+
+    .wrapper {
+        margin: 100px 495px;
+    }
+}
