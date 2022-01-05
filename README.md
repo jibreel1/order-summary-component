@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
--  Live Site URL: [Add live site URL here](https://jbholdings.netlify.app)
+-  Live Site URL: [https://jbholdings.netlify.app](https://jbholdings.netlify.app)
 
 ### Built with
 
