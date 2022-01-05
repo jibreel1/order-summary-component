@@ -40,5 +40,5 @@ From this completed project, I will like to know more on flex and grid of css, s
 
 ## Author
 
--  Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/jibreel1)
--  Twitter - [@yourusername](https://www.twitter.com/jibreel1005)
+-  Frontend Mentor - [@jibreel1](https://www.frontendmentor.io/profile/jibreel1)
+-  Twitter - [@jibreel1005](https://www.twitter.com/jibreel1005)
